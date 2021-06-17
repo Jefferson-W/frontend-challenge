@@ -1,7 +1,7 @@
+import cy from "cypress"
 describe('Primeiro teste', function () {
   it('Visitis', function () {
-    expect()
-
+    cy.visit()
 
   })
 

@@ -30,9 +30,17 @@ Agora, basta digitar o comando abaixo, para rodar no localhost:3000
 Abra seu browser e acesse o link abaixo:
 [http://localhost:3000](http://localhost:3000)
 
+### Visual do Projeto finalizado
+
+<br />
+<p align="center">
+    <img src="projeto.png" width="200" alt="ME">
+    </p>
+
+
 ### Feito Com
 
-Abaixo segue o que foi utilizado na criação deste template:
+Abaixo segue o que foi utilizado na criação do projeto:
 
 - [React](https://pt-br.reactjs.org/) - O React JS é um framework que permite o desenvolvimento de aplicações  utilizando Javascript;
 - [Cypress](https://www.cypress.io/) - O Cypress é um framework de testes automatizados end-to-end também usando JavaScript;

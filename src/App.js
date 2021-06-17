@@ -33,7 +33,6 @@ class App extends Component {
 
 
   render() {
-    console.log(this.state, 'dentro do render')
 
     return (
       <div>
