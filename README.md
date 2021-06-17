@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://blog.me.com.br/?utm_source=adwords&utm_medium=ppc&utm_campaign=%5BINSTITUCIONAL%5D%20SEARCH%20%7C%20FIXA&utm_term=mercado%20eletronico&hsa_acc=7066469600&hsa_cam=2047043518&hsa_grp=76035078407&hsa_ad=432750171038&hsa_src=g&hsa_tgt=kwd-332391521930&hsa_kw=mercado%20eletronico&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjw5auGBhDEARIsAFyNm9G1eZHF_EcUzFj-6z6yFCPbsV6W1GZHTOR_yluJzeT1SY4mFLLyoBcaAoyaEALw_wcB">
-    <img src="me.svg" width="200" alt="ME">
+    <img src="src/img/me.svg" width="200" alt="ME">
   </a>
 
   <h3 align="center">Mercado Eletronico</h3>
@@ -34,7 +34,7 @@ Abra seu browser e acesse o link abaixo:
 
 <br />
 <p align="center">
-    <img src="projeto.png" width="200" alt="ME">
+    <img src="src/img/projeto.png" width="500" alt="ME">
     </p>
 
 
