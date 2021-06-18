@@ -21,6 +21,9 @@ Eletronico, apresentado a tela de Pedido com os dados de uma API.
 Primeiro, é necessario ter o Node instalado [Node](https://nodejs.org/en/)
 
 
+Faça um clone do repositori com o comando abaixo::
+### `git clone https://github.com/Jefferson-W/frontend-challenge`
+
 Para instalar as dependências use :
 ### `npm install`
 
@@ -43,5 +46,7 @@ Abra seu browser e acesse o link abaixo:
 Abaixo segue o que foi utilizado na criação do projeto:
 
 - [React](https://pt-br.reactjs.org/) - O React JS é um framework que permite o desenvolvimento de aplicações  utilizando Javascript;
+
 - [Cypress](https://www.cypress.io/) - O Cypress é um framework de testes automatizados end-to-end também usando JavaScript;
+
 - [Fetch](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API/Using_Fetch) - Para utilizar a API foi utilizado o método fetch(). Ele retorna uma promessa. Se a promessa retornada for resolve , a função dentro do método then() é executada. Essa função contém o código para lidar com os dados recebidos da API.
